@@ -1,3 +1,3 @@
 # App-BiscoitoSorte
 
- Project using React Native with EXPO
+The project was used React Native with EXPO
